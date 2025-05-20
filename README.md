@@ -1,5 +1,8 @@
 # Hello and welcome to my🐍 Beginners Python Mentorship Tutorial
 
+![IMG-20250223-WA0006](https://github.com/user-attachments/assets/7e586504-8c1e-4e1a-80cd-0cd9e17960c9)
+
+
 Welcome to My **Beginners Python Mentorship Tutorial**  a hands-on and beginner-friendly Python course designed and mentored by  **Taofeeq Ayodele F.**. This repository contains the **official tutorial scripts**, there is also a **Beginners Python Mentorship Tutorial Handbook**, as a supplementary resources to support your learning journey.
 
 Whether you're new to programming or brushing up your skills, this mentorship-style course will guide you step-by-step from the fundamentals to intermediate Python concepts.
@@ -91,9 +94,11 @@ Whether you're new to programming or brushing up your skills, this mentorship-st
 ---
 
 ## 📘 Handbook Download
+![SAVE_20250303_082500](https://github.com/user-attachments/assets/ddc057b3-dc6d-43ad-b634-4ef3a2d43019)
 
 Get your copy of the **Beginners Python Mentorship Tutorial Handbook** for offline learning and note-taking.  
 **You can Message Me** https://wa.link/z50cwd
+![IMG-20250226-WA0012](https://github.com/user-attachments/assets/33d49929-1c44-4ab4-9109-0ab4dab715d1)
 
 ## 💡 Practice and Challenges
 
