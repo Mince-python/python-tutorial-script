@@ -1,4 +1,4 @@
-# Hello and welcome to my🐍 Beginners Python Mentorship Tutorial
+# Hello and Welcome to my Beginners Python Mentorship Tutorial
 
 ![IMG-20250223-WA0006](https://github.com/user-attachments/assets/7e586504-8c1e-4e1a-80cd-0cd9e17960c9)
 
